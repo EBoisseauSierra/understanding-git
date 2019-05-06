@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="320mm"
@@ -25,18 +26,21 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="630.53635"
-     inkscape:cy="533.12605"
+     inkscape:zoom="7.9195959"
+     inkscape:cx="1097.1803"
+     inkscape:cy="46.259055"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="layer2"
      showgrid="true"
      scale-x="3.77953"
      inkscape:window-width="3840"
      inkscape:window-height="2132"
      inkscape:window-x="0"
      inkscape:window-y="0"
-     inkscape:window-maximized="1">
+     inkscape:window-maximized="1"
+     gridtolerance="41"
+     inkscape:snap-tangential="true"
+     inkscape:snap-perpendicular="true">
     <inkscape:grid
        type="xygrid"
        id="grid6079"
@@ -52,13 +56,49 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="front page"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-117)" />
+     transform="translate(0,-117)"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#003366;fill-opacity:1;stroke:none;"
+       x="299.63712"
+       y="186.4306"
+       id="text4929-2-9-6-7"><tspan
+         sodipodi:role="line"
+         id="tspan4927-4-3-2-2"
+         x="299.63712"
+         y="186.4306">git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#df0a0b;fill-opacity:1;stroke:none;"
+       x="299.63712"
+       y="228.43065"
+       id="text4929-2-9-6-7-8"><tspan
+         sodipodi:role="line"
+         x="299.63712"
+         y="228.43065"
+         id="tspan16446">An overview</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.2;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#babdb6;fill-opacity:1;stroke:none;"
+       x="301.88239"
+       y="719.08521"
+       id="text949"><tspan
+         sodipodi:role="line"
+         x="301.88239"
+         y="719.08521"
+         id="tspan947"
+         style=""><tspan
+           x="301.88239"
+           y="719.08521"
+           id="tspan945">v0.0.1 | 2019.05.06 | Dr Étienne Boisseau-Sierra</tspan></tspan></text>
+  </g>
 </svg>
