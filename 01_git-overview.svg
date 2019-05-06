@@ -186,11 +186,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="744.14726"
-     inkscape:cy="556.97921"
+     inkscape:zoom="1.979899"
+     inkscape:cx="612.74928"
+     inkscape:cy="383.14897"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer5"
      showgrid="true"
      scale-x="3.77953"
      inkscape:window-width="3840"
@@ -555,7 +555,7 @@
      inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="situations_sandbox"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -2470,5 +2470,77 @@ ge2D8fc7Y3GtoZUFMlLE80WpJSDdgx3wVT1MsRVlkYH3wLbySakFLctn/9k=
          x="-661.72705"
          id="tspan1533-9"
          sodipodi:role="line">Source: www.safetica.com/blog/your-children-may-never-play-in-a-sandbox-but-they-might-work-in-one/</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="situations_backup"
+     style="display:inline">
+    <text
+       transform="rotate(-90)"
+       id="text1535-0-3"
+       y="1201.9937"
+       x="-661.72705"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0.99999994px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.60000002px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;stroke-width:0.99999994"
+         y="1201.9937"
+         x="-661.72705"
+         id="tspan1533-9-8"
+         sodipodi:role="line">Source: Travis Avery and Cathy Moser, from the Noun Project </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="301.0744"
+       y="75.226593"
+       id="text4929-3-3"><tspan
+         sodipodi:role="line"
+         id="tspan4927-6-0"
+         x="301.0744"
+         y="75.226593">Git is useful for…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#a40000;fill-opacity:1;stroke:none"
+       x="301.7424"
+       y="113.14591"
+       id="text4929-8-7-7"><tspan
+         sodipodi:role="line"
+         x="301.7424"
+         y="113.14591"
+         id="tspan20331-3-2">… having online back-ups of your work</tspan></text>
+    <g
+       id="g2897"
+       transform="translate(359.09679,17.690383)">
+      <g
+         style="fill:#cc0000;stroke-width:1.00000286"
+         transform="matrix(0.99999715,0,0,0.99999715,441.33903,364.74844)"
+         id="g2825">
+        <g
+           style="fill:#cc0000;stroke-width:1.00000286"
+           transform="translate(0,-952.36218)"
+           id="g2807">
+          <path
+             inkscape:connector-curvature="0"
+             style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:Sans;-inkscape-font-specification:Sans;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#cc0000;fill-opacity:1;stroke:none;stroke-width:6.00001669;marker:none;enable-background:accumulate"
+             d="m 17,10 c -3.826109,0 -7,3.17389 -7,7 v 66 c 0,3.8261 3.173891,7 7,7 h 66 c 3.826109,0 7,-3.1739 7,-7 V 29 a 3.0002998,3.0002998 0 0 0 -0.875,-2.125 l -16,-16 A 3.0002998,3.0002998 0 0 0 71,10 Z m 0,6 h 8 v 25 a 3.0002995,3.0002995 0 0 0 3,3 h 40 a 3.0002995,3.0002995 0 0 0 3,-3 V 17.25 l 13,13 V 83 c 0,0.6059 -0.394111,1 -1,1 H 17 c -0.605889,0 -1,-0.3941 -1,-1 V 17 c 0,-0.60589 0.394111,-1 1,-1 z m 14,0 H 65 V 38 H 31 Z m 19,35 c -7.144168,0 -13,5.8558 -13,13 0,7.1441 5.855832,13 13,13 7.144168,0 13,-5.8559 13,-13 0,-7.1442 -5.855832,-13 -13,-13 z m 0,6 c 3.901527,0 7,3.0985 7,7 0,3.9015 -3.098473,7 -7,7 -3.901527,0 -7,-3.0985 -7,-7 0,-3.9015 3.098473,-7 7,-7 z"
+             transform="translate(0,952.36218)"
+             id="path2805" />
+        </g>
+      </g>
+      <g
+         style="fill:#3465a4;stroke:#ffffff;stroke-width:0.34176764;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+         transform="matrix(18.412853,0,0,18.412853,268.15691,195.27885)"
+         id="g2851">
+        <g
+           style="fill:#3465a4;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34176764;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+           id="g2833">
+          <path
+             style="fill:#3465a4;fill-rule:nonzero;stroke:#ffffff;stroke-width:0.34176764;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+             inkscape:connector-curvature="0"
+             d="m 22,13 c 0,2.209142 -1.790858,4 -4,4 H 4.5 C 2.5668576,17 1,15.433142 1,13.5 1,11.723986 2.3224973,10.257132 4.0365203,10.03041 4.2618395,8.5964198 5.5026157,7.5 7,7.5 7.197218,7.5 7.3919474,7.5222333 7.587966,7.564931 8.6986209,5.9760185 10.514836,5 12.5,5 15.07135,5 17.318271,6.6343478 18.153551,9.002893 20.291534,9.0835884 22,10.842274 22,13 Z m -4,3 c 1.656858,0 3,-1.343142 3,-3 0,-1.656858 -1.343142,-3 -3,-3 -0.0024,0 -0.0124,10e-4 -0.04536,0.0057 -0.05365,0.0077 -0.08944,0.012 -0.133111,0.0145 C 17.586892,10.033593 17.374591,9.8817852 17.311408,9.6554219 16.71274,7.5105795 14.755901,6 12.5,6 10.737883,6 9.1360701,6.9227914 8.2330003,8.4051359 8.1109293,8.6055095 7.8659503,8.6940509 7.6439807,8.6180219 7.4152472,8.5396762 7.2053346,8.5 7,8.5 5.8951424,8.5 5,9.3951424 5,10.5 5,10.776142 4.7761424,11 4.5,11 3.1191424,11 2,12.119142 2,13.5 2,14.880858 3.1191424,16 4.5,16 Z"
+             id="path2831" />
+        </g>
+      </g>
+    </g>
   </g>
 </svg>
