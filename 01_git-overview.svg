@@ -26,9 +26,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="7.9195959"
-     inkscape:cx="1097.1803"
-     inkscape:cy="46.259055"
+     inkscape:zoom="1.4"
+     inkscape:cx="868.77084"
+     inkscape:cy="287.59683"
      inkscape:document-units="mm"
      inkscape:current-layer="layer2"
      showgrid="true"
@@ -68,7 +68,7 @@
      style="display:none">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#003366;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#003366;fill-opacity:1;stroke:none"
        x="299.63712"
        y="186.4306"
        id="text4929-2-9-6-7"><tspan
@@ -78,7 +78,7 @@
          y="186.4306">git</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#df0a0b;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.28000069px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#df0a0b;fill-opacity:1;stroke:none"
        x="299.63712"
        y="228.43065"
        id="text4929-2-9-6-7-8"><tspan
@@ -88,17 +88,72 @@
          id="tspan16446">An overview</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.2;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#babdb6;fill-opacity:1;stroke:none;"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;line-height:1.20000005;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#babdb6;fill-opacity:1;stroke:none"
        x="301.88239"
        y="719.08521"
        id="text949"><tspan
          sodipodi:role="line"
          x="301.88239"
          y="719.08521"
-         id="tspan947"
-         style=""><tspan
+         id="tspan947"><tspan
            x="301.88239"
            y="719.08521"
            id="tspan945">v0.0.1 | 2019.05.06 | Dr Étienne Boisseau-Sierra</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="situations_versioning"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
+       x="565.64148"
+       y="75.226601"
+       id="text4929"><tspan
+         sodipodi:role="line"
+         id="tspan4927"
+         x="565.64148"
+         y="75.226601">Git is useful for…</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#a40000;fill-opacity:1;stroke:none"
+       x="566.9295"
+       y="113.8212"
+       id="text4929-8"><tspan
+         sodipodi:role="line"
+         id="tspan4927-7"
+         x="566.9295"
+         y="113.8212">… having a clean a proper versioning</tspan><tspan
+         sodipodi:role="line"
+         x="566.9295"
+         y="133.8212"
+         id="tspan20331">  of your files</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;text-anchor:end;display:inline;fill:#babdb6;fill-opacity:1;stroke:none"
+       x="1173.0601"
+       y="647.29395"
+       id="text1376-8-9-7"><tspan
+         sodipodi:role="line"
+         x="1173.0601"
+         y="647.29395"
+         id="tspan4886-8">Source: &quot;notFinal.doc&quot;</tspan><tspan
+         sodipodi:role="line"
+         x="1173.0601"
+         y="661.29395"
+         id="tspan20333"><tspan
+   style="font-style:italic"
+   id="tspan20">Piled Higher and Deeper</tspan> by Jorge Cham (phdcomics.com)</tspan></text>
+    <image
+       sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/final.doc.gif"
+       xlink:href="assets/final.doc.gif"
+       y="-1.1073498e-05"
+       x="0"
+       id="image20328"
+       preserveAspectRatio="none"
+       height="680.31537"
+       width="510.23654"
+       style="stroke-width:1.17592597" />
   </g>
 </svg>
