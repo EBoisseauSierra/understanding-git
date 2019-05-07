@@ -18,6 +18,35 @@
    id="svg5154"
    sodipodi:docname="01_git-overview.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="853.0927"
+     inkscape:cy="461.66307"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer13"
+     showgrid="true"
+     scale-x="3.77953"
+     inkscape:window-width="3840"
+     inkscape:window-height="2132"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     gridtolerance="41"
+     inkscape:snap-tangential="true"
+     inkscape:snap-perpendicular="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid6079"
+       units="mm"
+       spacingx="3.7795299"
+       spacingy="3.7795299" />
+  </sodipodi:namedview>
   <defs
      id="defs5148">
     <marker
@@ -921,36 +950,82 @@
          style="fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:#d3d7cf;stroke-width:0.625;stroke-linejoin:round;stroke-opacity:1"
          id="path1834-8-7-70" />
     </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1836-1-4r"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker1836-1-4r">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="stroke-linejoin:round;stroke-opacity:1;fill-rule:evenodd;fill-opacity:1;stroke:#3465a4;stroke-width:0.625;fill:#3465a4"
+         id="path1054" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1836-1n"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker1836-1n">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="stroke-linejoin:round;stroke-opacity:1;fill-rule:evenodd;fill-opacity:1;stroke:#3465a4;stroke-width:0.625;fill:#3465a4"
+         id="path1057" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1836-1-2z"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker1836-1-2z">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="stroke-linejoin:round;stroke-opacity:1;fill-rule:evenodd;fill-opacity:1;stroke:#3465a4;stroke-width:0.625;fill:#3465a4"
+         id="path1060" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1836-1-4-4L"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker1836-1-4-4L">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="stroke-linejoin:round;stroke-opacity:1;fill-rule:evenodd;fill-opacity:1;stroke:#ef2929;stroke-width:0.625;fill:#ef2929"
+         id="path2925" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker1836-1-4-2F"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="marker1836-1-4-2F">
+      <path
+         inkscape:connector-curvature="0"
+         transform="matrix(-0.3,0,0,-0.3,0.69,0)"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         style="stroke-linejoin:round;stroke-opacity:1;fill-rule:evenodd;fill-opacity:1;stroke:#ef2929;stroke-width:0.625;fill:#ef2929"
+         id="path2928" />
+    </marker>
   </defs>
-  <sodipodi:namedview
-     id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageopacity="0.0"
-     inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="1254.2044"
-     inkscape:cy="587.56951"
-     inkscape:document-units="mm"
-     inkscape:current-layer="layer7"
-     showgrid="true"
-     scale-x="3.77953"
-     inkscape:window-width="3840"
-     inkscape:window-height="2132"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
-     gridtolerance="41"
-     inkscape:snap-tangential="true"
-     inkscape:snap-perpendicular="true">
-    <inkscape:grid
-       type="xygrid"
-       id="grid6079"
-       units="mm"
-       spacingx="3.7795299"
-       spacingy="3.7795299" />
-  </sodipodi:namedview>
   <metadata
      id="metadata5151">
     <rdf:RDF>
@@ -1001,7 +1076,7 @@
          id="tspan947"><tspan
            x="301.88239"
            y="719.08521"
-           id="tspan945">v0.0.1 | 2019.05.06 | Dr Étienne Boisseau-Sierra</tspan></tspan></text>
+           id="tspan945">v1.1.0 | 2019.05.07 | Dr Étienne Boisseau-Sierra</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1034,19 +1109,16 @@
          id="tspan20331">  of your files</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';text-align:end;text-anchor:end;display:inline;fill:#babdb6;fill-opacity:1;stroke:none"
-       x="1173.0601"
-       y="647.29395"
-       id="text1376-8-9-7"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:0;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.60000002px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="-661.72705"
+       y="1201.9937"
+       id="text1376-8-9-7"
+       transform="rotate(-90)"><tspan
          sodipodi:role="line"
-         x="1173.0601"
-         y="647.29395"
-         id="tspan4886-8">Source: &quot;notFinal.doc&quot;</tspan><tspan
-         sodipodi:role="line"
-         x="1173.0601"
-         y="661.29395"
-         id="tspan20333"><tspan
-   style="font-style:italic"
+         x="-661.72705"
+         y="1201.9937"
+         id="tspan20333">Source: &quot;notFinal.doc&quot;, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;line-height:0;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:0.60000002px;word-spacing:0px;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;vector-effect:none;fill:#cccccc;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
    id="tspan20">Piled Higher and Deeper</tspan> by Jorge Cham (phdcomics.com)</tspan></text>
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/final.doc.gif"
@@ -1640,7 +1712,7 @@
      inkscape:groupmode="layer"
      id="layer7"
      inkscape:label="vcs_other-word"
-     style="display:inline">
+     style="display:none">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -3024,31 +3096,31 @@
          inkscape:connector-curvature="0"
          id="path1699-2"
          d="m 555.59089,220.33087 c 26.45671,-15.11812 60.47248,-30.23624 86.92919,-37.7953"
-         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#555753;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1)" />
+         style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3465a4;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1n)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1699-2-0"
          d="m 831.49658,152.29933 c 45.35436,-7.55906 139.8426,-7.55906 188.97652,-3.77953"
-         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#555753;stroke-width:3.77952981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-4)" />
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3465a4;stroke-width:3.77952981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-4r)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1699-2-9"
          d="m 1217.0086,178.75604 c 30.2363,7.55906 56.693,15.11812 86.9292,30.23624"
-         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#555753;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-2)" />
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#3465a4;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-2z)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1699-2-0-9"
          d="m 576.26807,326.81912 c 94.48825,37.7953 158.74026,52.91341 264.5671,56.69294"
-         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#555753;stroke-width:3.77952981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-4-4)" />
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ef2929;stroke-width:3.77952981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-4-4L)" />
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
          id="path1699-2-0-7"
          d="m 1046.9298,381.88953 c 75.5906,0 136.0631,-11.33859 196.5355,-34.01576"
-         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#555753;stroke-width:3.77952981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-4-2)" />
+         style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ef2929;stroke-width:3.77952981;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1836-1-4-2F)" />
     </g>
   </g>
   <g
@@ -4498,6 +4570,18 @@
          d="m 359.05535,302.36239 377.953,-6e-5"
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#ef2929;stroke-width:3.77953029;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:11.33859087, 3.77953029;stroke-dashoffset:0;stroke-opacity:0.39215686;marker-start:url(#Arrow2Sstart-4);marker-end:url(#marker1836-6-2)" />
     </g>
+    <text
+       transform="rotate(-90)"
+       id="text1535-7-1-8"
+       y="1201.9937"
+       x="-661.72699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0.99999994px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.60000002px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;stroke-width:0.99999994"
+         y="1201.9937"
+         x="-661.72699"
+         id="tspan1533-7-7-9"
+         sodipodi:role="line">Icons created by Ali Coşkun, priyanke, and Montu Yadav, from the Noun Project (CC-BY-SA 3.0)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5040,6 +5124,18 @@
          id="tspan4927-6-0-6-6_bis-7-9-9-1-5-9"
          x="480.76239"
          y="528.7702">vs.</tspan></text>
+    <text
+       transform="rotate(-90)"
+       id="text1535-7-1-8-5"
+       y="1201.9937"
+       x="-661.72699"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0.99999994px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.99999994"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.33333349px;font-family:'Helvetica Neue LT Com';-inkscape-font-specification:'Helvetica Neue LT Com, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.60000002px;writing-mode:lr-tb;text-anchor:start;fill:#cccccc;stroke-width:0.99999994"
+         y="1201.9937"
+         x="-661.72699"
+         id="tspan1533-7-7-9-0"
+         sodipodi:role="line">Icons created by Ali Coşkun, Genius Icons, Adrien Coquet, Saifurrijal, and Dilla Chee, from the Noun Project (CC-BY-SA 3.0)</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -5065,7 +5161,7 @@
          sodipodi:role="line"
          x="301.74277"
          y="113.1461"
-         id="tspan2878_bis-6-4-2-1">…not to mistake git vs. GitHub, GOGS, and GitLab, or vs. SourceTree, GitKraken, etc.</tspan></text>
+         id="tspan2878_bis-6-4-2-1">…not to mistake git with GitHub, GOGS, and GitLab, or with SourceTree, GitKraken, etc.</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none"
@@ -5147,7 +5243,11 @@
          sodipodi:role="line"
          x="300.62485"
          y="322.64014"
-         id="tspan1699">to files</tspan></text>
+         id="tspan1699">to files, and their </tspan><tspan
+         sodipodi:role="line"
+         x="300.62485"
+         y="342.64017"
+         id="tspan4664">versions</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none"
@@ -5161,11 +5261,11 @@
          sodipodi:role="line"
          x="623.15259"
          y="322.64014"
-         id="tspan1728">and eases collaboration via</tspan><tspan
+         id="tspan1728">and eases collaboration</tspan><tspan
          sodipodi:role="line"
          x="623.15259"
          y="342.64017"
-         id="tspan1730">graphical tools</tspan></text>
+         id="tspan1730">via graphical tools</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#555753;fill-opacity:1;stroke:none"
@@ -5175,15 +5275,15 @@
          sodipodi:role="line"
          x="944.22247"
          y="302.64014"
-         id="tspan1730-3">enables you to use git</tspan><tspan
+         id="tspan1730-3">allows you to use git</tspan><tspan
          sodipodi:role="line"
          x="944.22247"
          y="322.64014"
-         id="tspan1760">graphically (and not via </tspan><tspan
+         id="tspan1760">graphically (and not</tspan><tspan
          sodipodi:role="line"
          x="944.22247"
          y="342.64017"
-         id="tspan1766">the terminal)</tspan></text>
+         id="tspan1766">via the terminal)</tspan></text>
     <image
        y="388.85065"
        x="302.3624"
@@ -5291,7 +5391,7 @@
      inkscape:groupmode="layer"
      id="layer13"
      inkscape:label="caveat_learning-curve"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -5358,5 +5458,19 @@
          x="352.48715"
          y="514.69513"
          id="tspan2878_bis-6-4-2-1-4-5-9-7">now!</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66667938px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;display:inline;fill:#d3d7cf;fill-opacity:1;stroke:none"
+       x="244.67023"
+       y="281.73413"
+       id="text4929-8-7-7-7-2_bis-7-0-2-3-0-8-3-3"><tspan
+         sodipodi:role="line"
+         x="244.67023"
+         y="281.73413"
+         id="tspan2878_bis-6-4-2-1-4-5-9-6">a dozen of</tspan><tspan
+         sodipodi:role="line"
+         x="244.67023"
+         y="300.40082"
+         id="tspan959">commands</tspan></text>
   </g>
 </svg>
