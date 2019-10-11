@@ -17,7 +17,7 @@
    version="1.1"
    id="svg5154"
    sodipodi:docname="01_git-overview.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (unknown)">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -25,17 +25,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.56"
-     inkscape:cx="538.97418"
-     inkscape:cy="28.466645"
+     inkscape:zoom="0.90509668"
+     inkscape:cx="949.38855"
+     inkscape:cy="8.7126288"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer11"
+     inkscape:current-layer="layer10"
      showgrid="true"
      scale-x="3.77953"
-     inkscape:window-width="3840"
-     inkscape:window-height="2132"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="941"
      inkscape:window-maximized="1"
      gridtolerance="41"
      inkscape:snap-tangential="true"
@@ -1140,43 +1140,43 @@
       <image
          sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/git.png"
          xlink:href="assets/git.png"
-         style="stroke-width:14.07108021"
-         width="235.74344"
-         height="98.422882"
-         preserveAspectRatio="none"
-         id="image5104"
+         y="489.21957"
          x="918.44781"
-         y="489.21957" />
+         id="image5104"
+         preserveAspectRatio="none"
+         height="98.422882"
+         width="235.74344"
+         style="stroke-width:14.07108021" />
       <image
          sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/brain.jpg"
          xlink:href="assets/brain.jpg"
-         style="stroke-width:19.75255585"
-         width="153.45988"
-         height="122.7612"
-         preserveAspectRatio="none"
-         id="image5022"
+         y="653.03253"
          x="283.46533"
-         y="653.03253" />
+         id="image5022"
+         preserveAspectRatio="none"
+         height="122.7612"
+         width="153.45988"
+         style="stroke-width:19.75255585" />
       <image
          sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/tardis.png"
          xlink:href="assets/tardis.png"
-         style="stroke-width:799.45922852"
-         width="97.341644"
-         height="165.80444"
-         preserveAspectRatio="none"
-         id="image4940"
+         y="456.61349"
          x="302.3624"
-         y="456.61349" />
+         id="image4940"
+         preserveAspectRatio="none"
+         height="165.80444"
+         width="97.341644"
+         style="stroke-width:799.45922852" />
       <image
          sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/Floppydisk_90mm(3.5inch).jpg"
          xlink:href="assets/Floppydisk_90mm(3.5inch).jpg"
-         style="stroke-width:9.91565895"
-         width="117.64587"
-         height="119.03976"
-         preserveAspectRatio="none"
-         id="image4858"
+         y="303.89282"
          x="293.52368"
-         y="303.89282" />
+         id="image4858"
+         preserveAspectRatio="none"
+         height="119.03976"
+         width="117.64587"
+         style="stroke-width:9.91565895" />
       <g
          transform="matrix(-1.0909091,0,0,1.5833331,1141.5384,-153.71828)"
          style="display:inline;stroke-width:1.09557712"
@@ -1272,13 +1272,13 @@
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/final.doc.gif"
        xlink:href="assets/final.doc.gif"
-       style="stroke-width:1.17592597"
-       width="510.23654"
-       height="680.31537"
-       preserveAspectRatio="none"
-       id="image20328"
+       y="-1.1073498e-05"
        x="0"
-       y="-1.1073498e-05" />
+       id="image20328"
+       preserveAspectRatio="none"
+       height="680.31537"
+       width="510.23654"
+       style="stroke-width:1.17592597" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -1288,14 +1288,14 @@
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/sandboxing.jpg"
        xlink:href="assets/sandboxing.jpg"
-       clip-path="url(#clipPath1052)"
-       style="stroke-width:0.36688888"
-       width="907.08716"
-       height="680.31537"
-       preserveAspectRatio="none"
-       id="image1043"
+       y="7.3965639e-06"
        x="-57.130447"
-       y="7.3965639e-06" />
+       id="image1043"
+       preserveAspectRatio="none"
+       height="680.31537"
+       width="907.08716"
+       style="stroke-width:0.36688888"
+       clip-path="url(#clipPath1052)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -1819,13 +1819,13 @@
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/stackoverflow_git_shadow.png"
        xlink:href="assets/stackoverflow_git_shadow.png"
-       style="stroke-width:3.03735495"
-       width="551.79626"
-       height="369.18109"
-       preserveAspectRatio="none"
-       id="image1299"
+       y="216.64618"
        x="448.67694"
-       y="216.64618" />
+       id="image1299"
+       preserveAspectRatio="none"
+       height="369.18109"
+       width="551.79626"
+       style="stroke-width:3.03735495" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -1867,43 +1867,43 @@
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/git.png"
        xlink:href="assets/git.png"
-       style="stroke-width:6.78712463"
-       width="235.74063"
-       height="98.421715"
-       preserveAspectRatio="none"
-       id="image1709"
+       y="372.22"
        x="918.44879"
-       y="372.22" />
+       id="image1709"
+       preserveAspectRatio="none"
+       height="98.421715"
+       width="235.74063"
+       style="stroke-width:6.78712463" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/Floppydisk_90mm(3.5inch).jpg"
        xlink:href="assets/Floppydisk_90mm(3.5inch).jpg"
-       style="stroke-width:4.78258276"
-       width="117.64921"
-       height="119.04314"
-       preserveAspectRatio="none"
-       id="image1463"
+       y="186.8911"
        x="293.52197"
-       y="186.8911" />
+       id="image1463"
+       preserveAspectRatio="none"
+       height="119.04314"
+       width="117.64921"
+       style="stroke-width:4.78258276" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/tardis.png"
        xlink:href="assets/tardis.png"
-       style="stroke-width:385.61053467"
-       width="97.341797"
-       height="165.80467"
-       preserveAspectRatio="none"
-       id="image1545"
+       y="339.61307"
        x="302.3624"
-       y="339.61307" />
+       id="image1545"
+       preserveAspectRatio="none"
+       height="165.80467"
+       width="97.341797"
+       style="stroke-width:385.61053467" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/brain.jpg"
        xlink:href="assets/brain.jpg"
-       style="stroke-width:9.52742386"
-       width="153.46025"
-       height="122.76148"
-       preserveAspectRatio="none"
-       id="image1627"
+       y="536.03217"
        x="283.46512"
-       y="536.03217" />
+       id="image1627"
+       preserveAspectRatio="none"
+       height="122.76148"
+       width="153.46025"
+       style="stroke-width:9.52742386" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -3282,7 +3282,7 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="how-git-works_sharing"
-     style="display:none">
+     style="display:inline">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -3811,21 +3811,11 @@
                  sodipodi:role="line"
                  x="963.28461"
                  y="429.09399"
-                 id="tspan20331-3-6-8-59-6-3-8"
-                 style="stroke-width:1.30918205">introduction</tspan><tspan
+                 id="tspan996-9-7-5-1"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333416px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;stroke-width:1.30918205">introduction</tspan><tspan
                  sodipodi:role="line"
                  x="963.28461"
                  y="442.42734"
-                 id="tspan933-0-0-2-6-9"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333416px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;stroke-width:1.30918205">chapter 1</tspan><tspan
-                 sodipodi:role="line"
-                 x="963.28461"
-                 y="455.76068"
-                 id="tspan996-9-7-5-1"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333416px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ef2929;stroke-width:1.30918205">chapter 2</tspan><tspan
-                 sodipodi:role="line"
-                 x="963.28461"
-                 y="469.09402"
                  id="tspan994-1-5-9-3"
                  style="stroke-width:1.30918205">conclusion</tspan></text>
             <path
@@ -4538,21 +4528,11 @@
                  sodipodi:role="line"
                  x="963.28461"
                  y="429.09399"
-                 id="tspan20331-3-6-8-59-6-3-8-8"
-                 style="stroke-width:1.30918205">introduction</tspan><tspan
+                 id="tspan996-9-7-5-1-0"
+                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333416px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#888a85;stroke-width:1.30918205">introduction</tspan><tspan
                  sodipodi:role="line"
                  x="963.28461"
                  y="442.42734"
-                 id="tspan933-0-0-2-6-9-5"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333416px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#3465a4;stroke-width:1.30918205">chapter 1</tspan><tspan
-                 sodipodi:role="line"
-                 x="963.28461"
-                 y="455.76068"
-                 id="tspan996-9-7-5-1-0"
-                 style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:13.3333416px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ef2929;stroke-width:1.30918205">chapter 2</tspan><tspan
-                 sodipodi:role="line"
-                 x="963.28461"
-                 y="469.09402"
                  id="tspan994-1-5-9-3-9"
                  style="stroke-width:1.30918205">conclusion</tspan></text>
             <path
@@ -5296,17 +5276,17 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="caveat_git-github"
-     style="display:inline">
+     style="display:none">
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/git.png"
        xlink:href="assets/git.png"
-       style="stroke-width:8.83711815"
-       width="181.05461"
-       height="75.590302"
-       preserveAspectRatio="none"
-       id="image1873"
+       y="388.8508"
        x="302.36276"
-       y="388.8508" />
+       id="image1873"
+       preserveAspectRatio="none"
+       height="75.590302"
+       width="181.05461"
+       style="stroke-width:8.83711815" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#2e3436;fill-opacity:1;stroke:none"
@@ -5452,53 +5432,53 @@
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/gitkraken.png"
        xlink:href="assets/gitkraken.png"
-       style="stroke-width:2.898422"
-       width="226.77182"
-       height="56.527344"
-       preserveAspectRatio="none"
-       id="image1881"
+       y="387.2941"
        x="938.88245"
-       y="387.2941" />
+       id="image1881"
+       preserveAspectRatio="none"
+       height="56.527344"
+       width="226.77182"
+       style="stroke-width:2.898422" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/sourcetree.png"
        xlink:href="assets/sourcetree.png"
-       style="stroke-width:21.68715668"
-       width="230.55132"
-       height="121.03945"
-       preserveAspectRatio="none"
-       id="image1943"
+       y="435.62234"
        x="935.32349"
-       y="435.62234" />
+       id="image1943"
+       preserveAspectRatio="none"
+       height="121.03945"
+       width="230.55132"
+       style="stroke-width:21.68715668" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/gogs.png"
        xlink:href="assets/gogs.png"
-       style="stroke-width:3.48466897"
-       width="73.464691"
-       height="73.464691"
-       preserveAspectRatio="none"
-       id="image2021"
+       y="468.44125"
        x="621.4176"
-       y="468.44125" />
+       id="image2021"
+       preserveAspectRatio="none"
+       height="73.464691"
+       width="73.464691"
+       style="stroke-width:3.48466897" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/gitlab.png"
        xlink:href="assets/gitlab.png"
-       style="stroke-width:11.83217049"
-       width="213.99301"
-       height="94.488228"
-       preserveAspectRatio="none"
-       id="image2032"
+       y="544.03186"
        x="602.72479"
-       y="544.03186" />
+       id="image2032"
+       preserveAspectRatio="none"
+       height="94.488228"
+       width="213.99301"
+       style="stroke-width:11.83217049" />
     <image
        sodipodi:absref="/home/ebosi/documents/understanding-git-course/assets/github.png"
        xlink:href="assets/github.png"
-       style="stroke-width:10.58333397"
-       width="188.97649"
-       height="62.834679"
-       preserveAspectRatio="none"
-       id="image2043"
+       y="388.85065"
        x="608.72479"
-       y="388.85065" />
+       id="image2043"
+       preserveAspectRatio="none"
+       height="62.834679"
+       width="188.97649"
+       style="stroke-width:10.58333397" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#d3d7cf;fill-opacity:1;stroke:none"
