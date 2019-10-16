@@ -4,6 +4,7 @@ This repo contains material of a git course for (and by) the Data Science team.
 The course is intended for both novice and those who use git yet sometime struggle to know which command to use to fix the mess of their repo.
 
 ## Objective
+
 The objective of this course is to provide a simple _understanding_ of how git works.
 We firmly believe that this will make the process of _learning_ (and then _using_) git easier.
 No prior exposure to git is required.
@@ -19,7 +20,7 @@ You will find below the main points addressed in each chapter.
     - Overview of git workflow
     - Caveat
 2. What happens at the file-level
-    - The 4 file states
+    - The 5 file states
     - The circle of life (of a file)
     - Anatomy of a commit
     - Knowing where you are
@@ -34,7 +35,7 @@ You will find below the main points addressed in each chapter.
     - Merging branches - Rebasing
     - Still pointers: Meet tags
 4. What happens at the distributed-level
-    - Distributed VCS  
+    - Distributed VCS
     - Distributed VCS in practice at Unipart
     - Creating a new repo: keep it simple
     - Letting the remote know about your changes
@@ -70,22 +71,25 @@ Once you have modified the source files, you might want to export a new set of s
 We have added a script (to be found in the `create_pdf_from_svg_layers.sh` file) that automate the export of layers as pages of a single PDF.
 
 To use this script, first give it sufficient rights, so that it can be executed on your machine:
-
-    chmod +x create_pdf_from_svg_layers.sh
+```
+chmod +x create_pdf_from_svg_layers.sh
+```
 
 Then, simply run the following command:
 
-    ./create_pdf_from_svg_layers.sh <file_name>.svg
-    # for example:
-    # ./create_pdf_from_svg_layers.sh 04_data-science_workflow/04_data-science_workflow.svg
+```
+./create_pdf_from_svg_layers.sh <file_name>.svg
+# for example:
+# ./create_pdf_from_svg_layers.sh 04_data-science_workflow/04_data-science_workflow.svg
+```
 
-This script will create one `temp***.pdf` file per layer in your working directory (this might take circa one second per layer), merge them all, and finally put the result in a `<file_name>.pdf` file located where the `.svg` one is.  
+This script will create one `temp***.pdf` file per layer in your working directory (this might take circa one second per layer), merge them all, and finally put the result in a `<file_name>.pdf` file located where the `.svg` one is.
 Of course, the script is well-mannered and it will clean temporary files up.
 
-Notes: 
+Notes:
 
 - Current export script only works if layers IDs actually start with `layer`.
   Note that it is not the case if you duplicate a layer in Inkscape (vs. creating a new one).
-  (We are planning to `grep` elements through their `inkscape:groupmode` — which is in both case eqal to `"layer"` — to tackle this issue.)
+  (We are planning to `grep` elements through their `inkscape:groupmode` — which is in both case equal to `"layer"` — to tackle this issue.)
 - Our script will create one slide per layer found in the `.svg` file… but will export content of _visible_ layers only.
   You might then want to double-check all layers are visible when exporting.
