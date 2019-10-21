@@ -24,17 +24,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.3535534"
-     inkscape:cx="-1157.7212"
-     inkscape:cy="346.85239"
+     inkscape:zoom="2.0000001"
+     inkscape:cx="54.543062"
+     inkscape:cy="375.22702"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer_25"
+     inkscape:current-layer="layer_201"
      showgrid="true"
      scale-x="3.77953"
-     inkscape:window-width="3840"
-     inkscape:window-height="2132"
+     inkscape:window-width="2560"
+     inkscape:window-height="1371"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="41"
      inkscape:window-maximized="1"
      gridtolerance="41"
      inkscape:snap-tangential="false"
@@ -1910,6 +1910,100 @@
          sodipodi:role="line">One should note that files <tspan
    style="font-style:italic"
    id="tspan4416">are not automatically included</tspan> in the next snapshot</tspan></text>
+  </g>
+  <g
+     transform="translate(0,-117)"
+     style="display:none"
+     id="layer_recap_1"
+     inkscape:groupmode="layer"
+     inkscape:label="recap: file states">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect18448"
+       width="1209.4489"
+       height="680.31494"
+       x="0"
+       y="117.00001" />
+    <text
+       id="text4640"
+       y="366.22672"
+       x="377.70541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="366.22672"
+         x="377.70541"
+         id="tspan4638"
+         sodipodi:role="line">For git, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+   id="tspan18433">a file is either tracked</tspan> (i.e. git</tspan><tspan
+         y="392.8934"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18437">records its successive versions), <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
+   id="tspan18435">or not</tspan>.</tspan><tspan
+         y="419.56009"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18071" /><tspan
+         y="446.22678"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18440" /><tspan
+         y="472.89343"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18444"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan18450">Tracked files</tspan> are in one of these states:</tspan><tspan
+         y="499.56012"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18075"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">   · staged</tspan><tspan
+         y="526.22681"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18077"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">   · modified</tspan><tspan
+         y="552.89349"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18079"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">   · unmodified</tspan><tspan
+         y="579.56018"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18081" /><tspan
+         y="606.22687"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18083" /><tspan
+         y="632.89355"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18446">Non-tracked files are either:</tspan><tspan
+         y="659.56024"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18085"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">   · untracked</tspan><tspan
+         y="686.22693"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan18087"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">   · ignored</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="301.0744"
+       y="192.22659"
+       id="text3384-3"><tspan
+         sodipodi:role="line"
+         id="tspan3382-6"
+         x="301.0744"
+         y="192.22659"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00001717px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc0000">Recap: File states</tspan></text>
   </g>
   <g
      transform="translate(0,-117)"
@@ -4074,12 +4168,12 @@
          transform="rotate(-90)"
          id="text3511-1-1"
          y="553.29163"
-         x="-498.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         x="-488.53564"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="553.29163"
-           x="-498.53564"
+           x="-488.53564"
            id="tspan3509-7-8"
            sodipodi:role="line">edit</tspan></text>
     </g>
@@ -6201,12 +6295,12 @@
          transform="rotate(-90)"
          id="text3511-1-1-1"
          y="553.29163"
-         x="-498.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         x="-488.53564"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="553.29163"
-           x="-498.53564"
+           x="-488.53564"
            id="tspan3509-7-8-2"
            sodipodi:role="line">edit</tspan></text>
     </g>
@@ -11304,13 +11398,13 @@
       <text
          transform="rotate(-90)"
          id="text3511-1-1-2"
-         y="553.29163"
-         x="-498.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         y="554.29163"
+         x="-486.53564"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
-           y="553.29163"
-           x="-498.53564"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="554.29163"
+           x="-486.53564"
            id="tspan3509-7-8-8"
            sodipodi:role="line">edit</tspan></text>
     </g>
@@ -11375,7 +11469,7 @@
     </g>
   </g>
   <g
-     style="display:inline"
+     style="display:none"
      inkscape:label="commiting file in multi-state copy"
      id="layer_25"
      inkscape:groupmode="layer">
@@ -12520,6 +12614,232 @@
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#bfbfbf;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker13748-3-2)" />
   </g>
   <g
+     inkscape:label="recap: file life cycle"
+     inkscape:groupmode="layer"
+     id="layer_recap_2"
+     style="display:none"
+     transform="translate(0,-117)">
+    <rect
+       y="117.00001"
+       x="0"
+       height="680.31494"
+       width="1209.4489"
+       id="rect18452"
+       style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="377.70541"
+       y="322.22672"
+       id="text18486"><tspan
+         id="tspan18460"
+         sodipodi:role="line"
+         x="377.70541"
+         y="322.22672">The typical life-cycle of a <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan18501">tracked file</tspan> is:</tspan><tspan
+         sodipodi:role="line"
+         x="377.70541"
+         y="348.8934"
+         id="tspan18503" /><tspan
+         sodipodi:role="line"
+         x="377.70541"
+         y="375.56009"
+         id="tspan18505" /><tspan
+         sodipodi:role="line"
+         x="377.70541"
+         y="402.22678"
+         id="tspan18507" /><tspan
+         sodipodi:role="line"
+         x="377.70541"
+         y="428.89343"
+         id="tspan18509" /><tspan
+         sodipodi:role="line"
+         x="377.70541"
+         y="455.56012"
+         id="tspan18511" /><tspan
+         sodipodi:role="line"
+         x="377.70541"
+         y="482.22681"
+         id="tspan18513" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan18484"
+         sodipodi:role="line"
+         x="377.70541"
+         y="508.89349" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="535.56018"
+         id="tspan18680" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="562.22687"
+         id="tspan18631" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="588.89355"
+         id="tspan20286">The typical life-cycle of an <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan18517">untracked file</tspan> is:</tspan></text>
+    <text
+       id="text18494"
+       y="192.22659"
+       x="301.0744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00001717px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc0000"
+         y="192.22659"
+         x="301.0744"
+         id="tspan18492"
+         sodipodi:role="line">Recap: Life-cycle of a file, during a commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="433.07004"
+       y="404.15747"
+       id="text18636"><tspan
+         sodipodi:role="line"
+         id="tspan18634"
+         x="433.07004"
+         y="404.15747"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#888a85;fill-opacity:1">unmodified</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="746.80792"
+       y="404.15747"
+       id="text18636-7"><tspan
+         sodipodi:role="line"
+         id="tspan18634-5"
+         x="746.80792"
+         y="404.15747"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#888a85;fill-opacity:1">modified</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="1032.5991"
+       y="404.15747"
+       id="text18636-5"><tspan
+         sodipodi:role="line"
+         id="tspan18634-3"
+         x="1032.5991"
+         y="404.15747"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#888a85;fill-opacity:1">staged</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="182.07892"
+       y="729.8269"
+       id="text18636-8"><tspan
+         sodipodi:role="line"
+         id="tspan18634-1"
+         x="182.07892"
+         y="729.8269"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#888a85;fill-opacity:1">untracked</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#888a85;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="1032.5991"
+       y="729.8269"
+       id="text18636-77"><tspan
+         sodipodi:role="line"
+         id="tspan18634-4"
+         x="1032.5991"
+         y="729.8269"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Italic';fill:#888a85;fill-opacity:1">staged</tspan></text>
+    <path
+       style="opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 623.62204,438.25985 H 737.00787"
+       id="path18682"
+       inkscape:connector-curvature="0" />
+    <path
+       style="opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d3d7cf;stroke-width:3.77953005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Send);paint-order:stroke fill markers"
+       d="M 876.59954,398.25983 H 1008.883"
+       id="path18684"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d3d7cf;stroke-width:3.77953005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Send-4);paint-order:stroke fill markers"
+       d="M 589.52832,398.25983 H 721.81183"
+       id="path18684-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d3d7cf;stroke-width:3.77953005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Send-4-7);paint-order:stroke fill markers"
+       d="M 321.26004,723.92951 H 1008.883"
+       id="path18684-9-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d3d7cf;stroke-width:3.77953005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Send-0);paint-order:stroke fill markers"
+       d="m 1133.859,398.26003 h 37.7953 v 56.69295 H 377.95299 v -56.69295 h 37.7953"
+       id="path18684-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <path
+       style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#d3d7cf;stroke-width:3.77953005;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#Arrow1Send-0-3);paint-order:stroke fill markers"
+       d="m 1133.859,723.92952 h 37.7953 l 5e-4,-56.97638 H 337.95296 V 398.26002 h 77.79536"
+       id="path18684-7-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#555753;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="917.45276"
+       y="383.50854"
+       id="text18636-8-7"><tspan
+         sodipodi:role="line"
+         id="tspan18634-1-6"
+         x="917.45276"
+         y="383.50854"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.00000954px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#555753;fill-opacity:1">git add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#555753;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="734.76361"
+       y="479.31116"
+       id="text18636-8-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan18634-1-6-0"
+         x="734.76361"
+         y="479.31116"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.00000954px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#555753;fill-opacity:1">git commit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#555753;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="641.24561"
+       y="383.50854"
+       id="text18636-8-7-5-1"><tspan
+         sodipodi:role="line"
+         id="tspan18634-1-6-0-3"
+         x="641.24561"
+         y="383.50854"
+         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.00000954px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#555753;fill-opacity:1">edit</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#555753;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="639.78302"
+       y="747.56836"
+       id="text18636-8-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan18634-1-6-6"
+         x="639.78302"
+         y="747.56836"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.00000954px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#555753;fill-opacity:1">git add</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.66666603px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#555753;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       x="714.76385"
+       y="653.05865"
+       id="text18636-8-7-5-15"><tspan
+         sodipodi:role="line"
+         id="tspan18634-1-6-0-5"
+         x="714.76385"
+         y="653.05865"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.00000954px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold';fill:#555753;fill-opacity:1">git commit</tspan></text>
+  </g>
+  <g
      inkscape:label="contents: 3"
      inkscape:groupmode="layer"
      id="layer_contents_3"
@@ -12545,13 +12865,6 @@
          x="299.63712"
          y="230.43065"
          id="tspan6004">What happens at the file-level</tspan></text>
-    <rect
-       style="fill:url(#linearGradient2735);fill-opacity:1;fill-rule:evenodd"
-       id="rect6008"
-       width="18.897638"
-       height="472.44095"
-       x="1077.1653"
-       y="324.87402" />
     <rect
        style="display:inline;fill:url(#linearGradient2735-2);fill-opacity:1;fill-rule:evenodd"
        id="rect6010"
@@ -16444,6 +16757,105 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48.00003052px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#555753">=</tspan></text>
   </g>
   <g
+     inkscape:label="recap: git anatomy"
+     inkscape:groupmode="layer"
+     id="layer_recap_3"
+     style="display:none"
+     transform="translate(0,-117)">
+    <rect
+       y="117.00001"
+       x="0"
+       height="680.31494"
+       width="1209.4489"
+       id="rect20325"
+       style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="377.70541"
+       y="366.22672"
+       id="text20359"><tspan
+         sodipodi:role="line"
+         id="tspan20329"
+         x="377.70541"
+         y="366.22672">A git commit is constituted of <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20371">files snapshot + metadata</tspan>.</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan20357"
+         sodipodi:role="line"
+         x="377.70541"
+         y="392.8934" /><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="419.56009"
+         id="tspan20469" /><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="446.22678"
+         id="tspan20499" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="472.89343"
+         id="tspan20471">If a <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20487">single element</tspan> (file content, date, author…) <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20489">changes</tspan>,</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="499.56012"
+         id="tspan20473">the <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20491">commit ID will change</tspan>.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="526.22681"
+         id="tspan20475" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="552.89349"
+         id="tspan20501" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="579.56018"
+         id="tspan20477" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="606.22687"
+         id="tspan20481">If two commits have <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20493">different ID</tspan>, for git <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20495">they are totally </tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="632.89355"
+         id="tspan20485"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20497">different</tspan> (even if they might have the same files snapshot).</tspan></text>
+    <text
+       id="text20367"
+       y="192.22659"
+       x="301.0744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00001717px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc0000"
+         y="192.22659"
+         x="301.0744"
+         id="tspan20365"
+         sodipodi:role="line">Recap: Anatomy of a git commit</tspan></text>
+  </g>
+  <g
      transform="translate(0,-117)"
      style="display:none"
      id="layer_contents_4"
@@ -16649,7 +17061,7 @@
          id="tspan6159" /></text>
   </g>
   <g
-     style="display:none"
+     style="display:inline"
      inkscape:label="status"
      id="layer_201"
      inkscape:groupmode="layer">
@@ -16772,36 +17184,6 @@
          id="circle3488"
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
-    <text
-       id="text8649"
-       y="288.72482"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="288.72482"
-         x="18.31765"
-         id="tspan8647"
-         sodipodi:role="line">staged</tspan></text>
-    <text
-       id="text8653"
-       y="384.76303"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="384.76303"
-         x="18.31765"
-         id="tspan8651"
-         sodipodi:role="line">modified</tspan></text>
-    <text
-       id="text8661"
-       y="479.2713"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="479.2713"
-         x="18.31765"
-         id="tspan8659"
-         sodipodi:role="line">unmodified</tspan></text>
     <rect
        y="614.17365"
        x="37.7953"
@@ -16909,6 +17291,42 @@
          x="18.31765"
          id="tspan2086-06"
          sodipodi:role="line">untracked</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="288.72482"
+       id="text4062-7"><tspan
+         sodipodi:role="line"
+         id="tspan4060-8"
+         x="18.31765"
+         y="288.72482">staged <tspan
+   style="font-size:13.3333416px"
+   id="tspan4058-4">(index)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="384.76315"
+       id="text4068-50"><tspan
+         sodipodi:role="line"
+         id="tspan4066-3610"
+         x="18.31765"
+         y="384.76315">modified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4064-6">(working tree)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="479.27155"
+       id="text4074-32"><tspan
+         sodipodi:role="line"
+         id="tspan4072-0"
+         x="18.31765"
+         y="479.27155">unmodified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4070-6">(checked out)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -17034,36 +17452,6 @@
          cy="188.97652"
          r="18.897673" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="18.31765"
-       y="288.72482"
-       id="text2153"><tspan
-         sodipodi:role="line"
-         id="tspan2151"
-         x="18.31765"
-         y="288.72482">staged</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="18.31765"
-       y="384.76303"
-       id="text2157"><tspan
-         sodipodi:role="line"
-         id="tspan2155"
-         x="18.31765"
-         y="384.76303">modified</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="18.31765"
-       y="479.2713"
-       id="text2161"><tspan
-         sodipodi:role="line"
-         id="tspan2159"
-         x="18.31765"
-         y="479.2713">unmodified</tspan></text>
     <rect
        style="fill:#1a1c2c;fill-rule:evenodd;stroke-width:0.99999994"
        id="rect2163"
@@ -17207,6 +17595,42 @@
          sodipodi:role="line"
          id="tspan2298"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333416px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#f4f4f4">nothing to commit, working tree clean</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="288.72482"
+       id="text4062-9"><tspan
+         sodipodi:role="line"
+         id="tspan4060-22"
+         x="18.31765"
+         y="288.72482">staged <tspan
+   style="font-size:13.3333416px"
+   id="tspan4058-8">(index)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="384.76315"
+       id="text4068-97"><tspan
+         sodipodi:role="line"
+         id="tspan4066-361"
+         x="18.31765"
+         y="384.76315">modified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4064-29">(working tree)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="479.27155"
+       id="text4074-31"><tspan
+         sodipodi:role="line"
+         id="tspan4072-9"
+         x="18.31765"
+         y="479.27155">unmodified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4070-4">(checked out)</tspan></tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -17332,36 +17756,6 @@
          cy="188.97652"
          r="18.897673" />
     </g>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="18.31765"
-       y="288.72482"
-       id="text2005"><tspan
-         sodipodi:role="line"
-         id="tspan2003"
-         x="18.31765"
-         y="288.72482">staged</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="18.31765"
-       y="384.76303"
-       id="text2009"><tspan
-         sodipodi:role="line"
-         id="tspan2007"
-         x="18.31765"
-         y="384.76303">modified</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       x="18.31765"
-       y="479.2713"
-       id="text2013"><tspan
-         sodipodi:role="line"
-         id="tspan2011"
-         x="18.31765"
-         y="479.2713">unmodified</tspan></text>
     <rect
        style="fill:#1a1c2c;fill-rule:evenodd;stroke-width:0.99999994"
        id="rect2015"
@@ -17526,6 +17920,42 @@
          x="18.31765"
          id="tspan2086-0"
          sodipodi:role="line">untracked</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="288.72482"
+       id="text4062-8"><tspan
+         sodipodi:role="line"
+         id="tspan4060-7"
+         x="18.31765"
+         y="288.72482">staged <tspan
+   style="font-size:13.3333416px"
+   id="tspan4058-9">(index)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="384.76315"
+       id="text4068-2"><tspan
+         sodipodi:role="line"
+         id="tspan4066-0"
+         x="18.31765"
+         y="384.76315">modified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4064-2">(working tree)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="479.27155"
+       id="text4074-3"><tspan
+         sodipodi:role="line"
+         id="tspan4072-7"
+         x="18.31765"
+         y="479.27155">unmodified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4070-5">(checked out)</tspan></tspan></text>
   </g>
   <g
      style="display:none"
@@ -17651,36 +18081,6 @@
          id="circle2347"
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
-    <text
-       id="text2355"
-       y="288.72482"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="288.72482"
-         x="18.31765"
-         id="tspan2353"
-         sodipodi:role="line">staged</tspan></text>
-    <text
-       id="text2359"
-       y="384.76303"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="384.76303"
-         x="18.31765"
-         id="tspan2357"
-         sodipodi:role="line">modified</tspan></text>
-    <text
-       id="text2363"
-       y="479.2713"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="479.2713"
-         x="18.31765"
-         id="tspan2361"
-         sodipodi:role="line">unmodified</tspan></text>
     <g
        transform="translate(305.6801,-94.754875)"
        style="display:inline"
@@ -17921,6 +18321,42 @@
          sodipodi:role="line"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:13.3333416px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';fill:#f4f4f4"
          id="tspan2469-0" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="288.72482"
+       id="text4062-1"><tspan
+         sodipodi:role="line"
+         id="tspan4060-2"
+         x="18.31765"
+         y="288.72482">staged <tspan
+   style="font-size:13.3333416px"
+   id="tspan4058-70">(index)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="384.76315"
+       id="text4068-9"><tspan
+         sodipodi:role="line"
+         id="tspan4066-36"
+         x="18.31765"
+         y="384.76315">modified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4064-0">(working tree)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="479.27155"
+       id="text4074-62"><tspan
+         sodipodi:role="line"
+         id="tspan4072-6"
+         x="18.31765"
+         y="479.27155">unmodified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4070-1">(checked out)</tspan></tspan></text>
   </g>
   <g
      style="display:none"
@@ -18092,26 +18528,6 @@
          style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#cc0000;stroke-width:3.77952766;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke markers fill" />
     </g>
     <text
-       id="text2080"
-       y="288.72482"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="288.72482"
-         x="18.31765"
-         id="tspan2078"
-         sodipodi:role="line">staged</tspan></text>
-    <text
-       id="text2084"
-       y="384.76303"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="384.76303"
-         x="18.31765"
-         id="tspan2082"
-         sodipodi:role="line">modified</tspan></text>
-    <text
        id="text3790"
        y="573.7395"
        x="18.31765"
@@ -18121,16 +18537,6 @@
          x="18.31765"
          id="tspan3788"
          sodipodi:role="line">untracked</tspan></text>
-    <text
-       id="text2092"
-       y="479.2713"
-       x="18.31765"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         y="479.2713"
-         x="18.31765"
-         id="tspan2090"
-         sodipodi:role="line">unmodified</tspan></text>
     <rect
        y="614.17365"
        x="37.7953"
@@ -18164,12 +18570,12 @@
          transform="rotate(-90)"
          id="text3806"
          y="553.29163"
-         x="-498.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         x="-488.53564"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="553.29163"
-           x="-498.53564"
+           x="-488.53564"
            id="tspan3804"
            sodipodi:role="line">edit</tspan></text>
     </g>
@@ -18308,6 +18714,42 @@
            sodipodi:role="line"
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.6666708px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#404040;stroke-width:1">hello world</tspan></text>
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="288.72482"
+       id="text4062-3"><tspan
+         sodipodi:role="line"
+         id="tspan4060-6"
+         x="18.31765"
+         y="288.72482">staged <tspan
+   style="font-size:13.3333416px"
+   id="tspan4058-7">(index)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="384.76315"
+       id="text4068-5"><tspan
+         sodipodi:role="line"
+         id="tspan4066-3"
+         x="18.31765"
+         y="384.76315">modified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4064-5">(working tree)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       x="18.31765"
+       y="479.27155"
+       id="text4074-6"><tspan
+         sodipodi:role="line"
+         id="tspan4072-2"
+         x="18.31765"
+         y="479.27155">unmodified <tspan
+   style="font-size:13.3333416px"
+   id="tspan4070-9">(checked out)</tspan></tspan></text>
   </g>
   <g
      style="display:none"
@@ -18369,16 +18811,6 @@
          x="301.0744"
          id="tspan3843"
          sodipodi:role="line">Comparing a file across states</tspan></text>
-    <text
-       id="text3849"
-       y="113.1459"
-       x="301.7424"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#808080;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan3847"
-         y="113.1459"
-         x="301.7424"
-         sodipodi:role="line">bar baz</tspan></text>
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#bfbfbf;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2963-27)"
        d="M 0,170.07889 H 275.90568"
@@ -20986,18 +21418,18 @@
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="path2106-8"
-         d="m 548.03183,505.6225 -18.89766,-18.89766 h 7.55908 v -76.53561 h 22.67718 v 76.53561 h 7.55906 z"
+         d="m 648.03188,505.6225 -18.89766,-18.89766 h 7.55908 v -76.53561 h 22.67718 v 76.53561 h 7.55906 z"
          style="display:inline;opacity:1;vector-effect:none;fill:#1a1c2c;fill-opacity:0.5372549;stroke:none;stroke-width:7.55905533;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
       <text
          transform="rotate(-90)"
          id="text2110-13"
-         y="553.29163"
-         x="-482.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         y="653.79163"
+         x="-472.53564"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
-           y="553.29163"
-           x="-482.53564"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+           y="653.79163"
+           x="-472.53564"
            id="tspan2108-1"
            sodipodi:role="line">edit</tspan></text>
     </g>
@@ -21552,6 +21984,90 @@
     </g>
   </g>
   <g
+     inkscape:label="recap: git status"
+     inkscape:groupmode="layer"
+     id="layer_recap_5"
+     style="display:none"
+     transform="translate(0,-117)">
+    <rect
+       y="117.00001"
+       x="0"
+       height="680.31494"
+       width="1209.4489"
+       id="rect20605"
+       style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="377.70541"
+       y="400.22672"
+       id="text20635"><tspan
+         id="tspan20611"
+         sodipodi:role="line"
+         x="377.70541"
+         y="400.22672"><tspan
+   id="tspan20607"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">git status</tspan> lets you see the <tspan
+   id="tspan20609"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">state of each file in the repo</tspan></tspan><tspan
+         id="tspan20613"
+         sodipodi:role="line"
+         x="377.70541"
+         y="426.8934">that is neither unmodified, nor ignored.</tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="453.56009"
+         id="tspan20615" /><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="480.22678"
+         id="tspan20617" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="506.89343"
+         id="tspan20619">The verbose version (default) offer a reminder of commands</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="533.56012"
+         id="tspan20621">you might need.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="560.22681"
+         id="tspan20623" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="586.89349"
+         id="tspan20625" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="613.56018"
+         id="tspan20633">The <tspan
+   id="tspan20627"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">--short</tspan> (or <tspan
+   id="tspan20629"
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">-s</tspan>) flag is <tspan
+   id="tspan20631"
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">useful for brevety</tspan>.</tspan></text>
+    <text
+       id="text20643"
+       y="192.22659"
+       x="301.0744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00001717px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc0000"
+         y="192.22659"
+         x="301.0744"
+         id="tspan20641"
+         sodipodi:role="line">Recap: git status</tspan></text>
+  </g>
+  <g
      style="display:none"
      inkscape:label="Compare"
      id="layer_101"
@@ -22062,12 +22578,12 @@
          transform="rotate(-90)"
          id="text2110"
          y="553.29163"
-         x="-498.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         x="-488.53564"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="553.29163"
-           x="-498.53564"
+           x="-488.53564"
            id="tspan2108"
            sodipodi:role="line">edit</tspan></text>
     </g>
@@ -22185,16 +22701,6 @@
          x="301.0744"
          id="tspan1509"
          sodipodi:role="line">Comparing a file across states</tspan></text>
-    <text
-       id="text1515"
-       y="113.1459"
-       x="301.7424"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#808080;fill-opacity:1;stroke:none"
-       xml:space="preserve"><tspan
-         id="tspan1513"
-         y="113.1459"
-         x="301.7424"
-         sodipodi:role="line">bar baz</tspan></text>
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#bfbfbf;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2963-27)"
        d="M 0,170.07889 H 275.90568"
@@ -22400,7 +22906,7 @@
        id="g1613"
        transform="translate(-51.354366,-25.338599)">
       <path
-         style="opacity:1;vector-effect:none;fill:#b13e53;fill-opacity:0.5372549;stroke:none;stroke-width:10.82834625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+         style="opacity:1;vector-effect:none;fill:#3366cc;fill-opacity:0.5372549;stroke:none;stroke-width:10.82834625;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
          d="m 633.40161,414.62994 11.33858,-11.33858 v 7.55905 h 30.23622 v 102.04725 h -30.23622 v 7.55905 l -11.33858,-11.33858 11.33858,-11.33858 v 7.55905 h 11.33858 v -86.92913 h -11.33858 v 7.55905 z"
          id="path2000"
          inkscape:connector-curvature="0" />
@@ -22587,16 +23093,6 @@
          id="tspan2322"
          x="301.0744"
          y="75.226601">Comparing a file across states</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#808080;fill-opacity:1;stroke:none"
-       x="301.7424"
-       y="113.1459"
-       id="text2328"><tspan
-         sodipodi:role="line"
-         x="301.7424"
-         y="113.1459"
-         id="tspan2326">bar baz</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -24074,9 +24570,9 @@
          id="text2110-1"
          y="553.29163"
          x="-478.53564"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
          xml:space="preserve"><tspan
-           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'"
+           style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
            y="553.29163"
            x="-478.53564"
            id="tspan2108-5"
@@ -25607,9 +26103,101 @@
    id="tspan3343-8">(checked out)</tspan></tspan></text>
   </g>
   <g
+     transform="translate(0,-117)"
+     style="display:none"
+     id="layer_recap_4"
+     inkscape:groupmode="layer"
+     inkscape:label="recap: git diff">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect20503"
+       width="1209.4489"
+       height="680.31494"
+       x="0"
+       y="117.00001" />
+    <text
+       id="text20541"
+       y="380.22672"
+       x="377.70541"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         y="380.22672"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan20567"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20577">git diff</tspan> lets you see the<tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20579"> difference in content between</tspan></tspan><tspan
+         y="406.8934"
+         x="377.70541"
+         sodipodi:role="line"
+         id="tspan20573"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20657">two states of a single file</tspan>.</tspan><tspan
+         id="tspan20511"
+         y="433.56009"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan20513"
+         y="460.22678"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start" /><tspan
+         id="tspan20525"
+         y="486.89343"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">It works on multiple files too, by appending all differences.</tspan><tspan
+         y="513.56012"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan20665" /><tspan
+         y="540.22681"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan20667" /><tspan
+         y="566.89349"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan20669">The default comparison <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20677">granularity is the line of code</tspan>.</tspan><tspan
+         y="593.56018"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan20671" /><tspan
+         y="620.22687"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         id="tspan20673" /><tspan
+         id="tspan20539"
+         y="646.89355"
+         x="377.70541"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">Comparing word to word is also possible.</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="301.0744"
+       y="192.22659"
+       id="text20549"><tspan
+         sodipodi:role="line"
+         id="tspan20547"
+         x="301.0744"
+         y="192.22659"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00001717px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc0000">Recap: git diff</tspan></text>
+  </g>
+  <g
      inkscape:label="contents: 5"
      inkscape:groupmode="layer"
-     id="layer_contents_5"
+     id="g4950"
      style="display:none"
      transform="translate(0,-117)">
     <text
@@ -25617,9 +26205,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#003366;fill-opacity:1;stroke:none"
        x="299.63712"
        y="192.4306"
-       id="text6167"><tspan
+       id="text4876"><tspan
          sodipodi:role="line"
-         id="tspan6165"
+         id="tspan4874"
          x="299.63712"
          y="192.4306">git</tspan></text>
     <text
@@ -25627,19 +26215,19 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.28000069px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#df0a0b;fill-opacity:1;stroke:none"
        x="299.63712"
        y="230.43065"
-       id="text6171"><tspan
+       id="text4880"><tspan
          sodipodi:role="line"
          x="299.63712"
          y="230.43065"
-         id="tspan6169">What happens at the file-level</tspan></text>
+         id="tspan4878">What happens at the file-level</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
        x="376.66541"
        y="298.22665"
-       id="text6179"><tspan
+       id="text4884"><tspan
          sodipodi:role="line"
-         id="tspan6177"
+         id="tspan4882"
          x="376.66541"
          y="298.22665">The 5 (well, 4) file states</tspan></text>
     <text
@@ -25647,9 +26235,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
        x="376.66541"
        y="382.22668"
-       id="text6183"><tspan
+       id="text4888"><tspan
          sodipodi:role="line"
-         id="tspan6181"
+         id="tspan4886"
          x="376.66541"
          y="382.22668">The circle of life (of a file)</tspan></text>
     <text
@@ -25657,12 +26245,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
        x="376.66541"
        y="466.22672"
-       id="text6189"><tspan
+       id="text4894"><tspan
          sodipodi:role="line"
-         id="tspan6185"
+         id="tspan4890"
          x="376.66541"
          y="466.22672">Anatomy of a commit</tspan><tspan
-         id="tspan6187"
+         id="tspan4892"
          sodipodi:role="line"
          x="376.66541"
          y="492.8934" /></text>
@@ -25671,12 +26259,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
        x="376.66541"
        y="550.22675"
-       id="text6195"><tspan
+       id="text4900"><tspan
          sodipodi:role="line"
-         id="tspan6191"
+         id="tspan4896"
          x="376.66541"
          y="550.22675">Knowing what is happening (from the command line)</tspan><tspan
-         id="tspan6193"
+         id="tspan4898"
          sodipodi:role="line"
          x="376.66541"
          y="576.89343" /></text>
@@ -25685,13 +26273,13 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="376.66541"
        y="634.22681"
-       id="text6201"><tspan
+       id="text4906"><tspan
          sodipodi:role="line"
-         id="tspan6197"
+         id="tspan4902"
          x="376.66541"
          y="634.22681"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'">Undoing things</tspan><tspan
-         id="tspan6199"
+         id="tspan4904"
          sodipodi:role="line"
          x="376.66541"
          y="660.89349"
@@ -25701,12 +26289,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="376.66541"
        y="718.22681"
-       id="text6207"><tspan
+       id="text4912"><tspan
          sodipodi:role="line"
-         id="tspan6203"
+         id="tspan4908"
          x="376.66541"
          y="718.22681">Going the extra mile</tspan><tspan
-         id="tspan6205"
+         id="tspan4910"
          sodipodi:role="line"
          x="376.66541"
          y="744.89349" /></text>
@@ -25715,9 +26303,9 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
        x="418.24091"
        y="323.70105"
-       id="text6211"><tspan
+       id="text4916"><tspan
          sodipodi:role="line"
-         id="tspan6209"
+         id="tspan4914"
          x="418.24091"
          y="323.70105">Or is it 2?</tspan></text>
     <text
@@ -25725,12 +26313,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
        x="418.24091"
        y="407.70114"
-       id="text6217"><tspan
+       id="text4922"><tspan
          sodipodi:role="line"
-         id="tspan6213"
+         id="tspan4918"
          x="418.24091"
          y="407.70114">From one commit to another</tspan><tspan
-         id="tspan6215"
+         id="tspan4920"
          sodipodi:role="line"
          x="418.24091"
          y="429.03448" /></text>
@@ -25739,12 +26327,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
        x="418.24091"
        y="491.7012"
-       id="text6223"><tspan
+       id="text4928"><tspan
          sodipodi:role="line"
-         id="tspan6219"
+         id="tspan4924"
          x="418.24091"
          y="491.7012">With all bloody details</tspan><tspan
-         id="tspan6221"
+         id="tspan4926"
          sodipodi:role="line"
          x="418.24091"
          y="513.03455" /></text>
@@ -25753,12 +26341,12 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
        x="418.24091"
        y="575.70129"
-       id="text6229"><tspan
+       id="text4934"><tspan
          sodipodi:role="line"
-         id="tspan6225"
+         id="tspan4930"
          x="418.24091"
          y="575.70129">Can be usefull… sometimes</tspan><tspan
-         id="tspan6227"
+         id="tspan4932"
          sodipodi:role="line"
          x="418.24091"
          y="597.03467" /></text>
@@ -25767,13 +26355,13 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="418.24091"
        y="659.70142"
-       id="text6235"><tspan
+       id="text4940"><tspan
          sodipodi:role="line"
-         id="tspan6231"
+         id="tspan4936"
          x="418.24091"
          y="659.70142"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'">Can be usefull… too</tspan><tspan
-         id="tspan6233"
+         id="tspan4938"
          sodipodi:role="line"
          x="418.24091"
          y="681.03479"
@@ -25783,16 +26371,16 @@
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        x="418.24091"
        y="743.70148"
-       id="text6243"><tspan
+       id="text4948"><tspan
          sodipodi:role="line"
-         id="tspan6237"
+         id="tspan4942"
          x="418.24091"
          y="743.70148">With more complex yet super cool commands</tspan><tspan
-         id="tspan6239"
+         id="tspan4944"
          sodipodi:role="line"
          x="418.24091"
          y="765.03485" /><tspan
-         id="tspan6241"
+         id="tspan4946"
          sodipodi:role="line"
          x="418.24091"
          y="786.36816" /></text>
@@ -25921,9 +26509,9 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none"
        x="18.31765"
        y="288.72482"
-       id="text4928"><tspan
+       id="text4973"><tspan
          sodipodi:role="line"
-         id="tspan4926"
+         id="tspan4971"
          x="18.31765"
          y="288.72482">staged</tspan></text>
     <text
@@ -25933,7 +26521,7 @@
        y="384.76303"
        id="text4932"><tspan
          sodipodi:role="line"
-         id="tspan4930"
+         id="tspan4975"
          x="18.31765"
          y="384.76303">modified</tspan></text>
     <text
@@ -25980,12 +26568,12 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.26375771px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#888a85;fill-opacity:1;stroke:none;stroke-width:1"
          x="302.13632"
          y="540.02179"
-         id="text4948"><tspan
+         id="text4986"><tspan
            style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.6666708px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#808080;stroke-width:1"
            sodipodi:role="line"
            x="302.13632"
            y="540.02179"
-           id="tspan4946">answer.txt</tspan></text>
+           id="tspan4984">answer.txt</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.26375771px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1"
@@ -26390,7 +26978,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
        x="-459.61728"
        y="501.93726"
        id="text5095"
@@ -26399,7 +26987,7 @@
          id="tspan5093"
          x="-459.61728"
          y="501.93726"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'">edit</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">edit</tspan></text>
     <g
        style="display:inline"
        id="g5111"
@@ -26555,7 +27143,7 @@
        sodipodi:nodetypes="cccccccc" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
+       style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#f4f4f4;fill-opacity:1;stroke:none"
        x="-459.61728"
        y="653.93738"
        id="text2110-6"
@@ -26564,7 +27152,7 @@
          id="tspan2108-18"
          x="-459.61728"
          y="653.93738"
-         style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold Italic'">edit</tspan></text>
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.00001335px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">edit</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
@@ -32177,6 +32765,120 @@
     </g>
   </g>
   <g
+     inkscape:label="recap: undoing things"
+     inkscape:groupmode="layer"
+     id="layer_recap_6"
+     style="display:none"
+     transform="translate(0,-117)">
+    <rect
+       y="117.00001"
+       x="0"
+       height="680.31494"
+       width="1209.4489"
+       id="rect20688"
+       style="opacity:1;vector-effect:none;fill:#ffcc00;fill-opacity:0.5372549;stroke:none;stroke-width:3.77952766;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="377.70541"
+       y="340.22672"
+       id="text20720"><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="340.22672"
+         id="tspan20700"><tspan
+           id="tspan20743"
+           style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start">git reset</tspan><tspan
+           id="tspan20736"
+           style="font-style:normal;-inkscape-font-specification:'Ubuntu Mono, Normal'"> is the exact undo of git add.</tspan></tspan><tspan
+         style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="366.8934"
+         id="tspan20702" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="393.56009"
+         id="tspan20704" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="420.22678"
+         id="tspan20745">&quot;Unmodifying&quot; a file, using <tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20749">git checkout</tspan>, <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20751">is dangerous</tspan></tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="446.89343"
+         id="tspan20747">because content will be lost.</tspan><tspan
+         id="tspan20706"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="473.56012" /><tspan
+         id="tspan20708"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="500.22681" /><tspan
+         id="tspan20712"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="526.89349"><tspan
+   style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20755">git reset --hard</tspan> <tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20757">is even more dangerous</tspan>, because it deletes</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="553.56018"
+         id="tspan20753">all untracked files.</tspan><tspan
+         id="tspan20714"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="580.22687" /><tspan
+         id="tspan20716"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="606.89355" /><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="633.56024"
+         id="tspan20718">Both <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20761">git reset</tspan> and <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20763">git checkout</tspan> can be applied on single </tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+         sodipodi:role="line"
+         x="377.70541"
+         y="660.22693"
+         id="tspan20759">files or all of them. <tspan
+   style="font-style:italic;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Italic';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
+   id="tspan20765">git reset --hard</tspan> is on all files only.</tspan></text>
+    <text
+       id="text20728"
+       y="192.22659"
+       x="301.0744"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:28.00001717px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#cc0000"
+         y="192.22659"
+         x="301.0744"
+         id="tspan20726"
+         sodipodi:role="line">Recap: Undoing things</tspan></text>
+  </g>
+  <g
      transform="translate(0,-117)"
      style="display:none"
      id="layer_contents_6"
@@ -33160,7 +33862,7 @@
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:20.00001335px;line-height:0;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        x="18.31765"
        y="384.76303"
-       id="text4986"><tspan
+       id="text6306"><tspan
          sodipodi:role="line"
          id="tspan3755"
          x="18.31765"
@@ -34242,5 +34944,196 @@
          y="660.38544">git commit <tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono'"
    id="tspan3076-0-0">-m &quot;What now?&quot;</tspan></tspan></text>
+  </g>
+  <g
+     inkscape:label="contents: 5"
+     inkscape:groupmode="layer"
+     id="layer_contents_5"
+     style="display:none"
+     transform="translate(0,-117)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#003366;fill-opacity:1;stroke:none"
+       x="299.63712"
+       y="192.4306"
+       id="text6167"><tspan
+         sodipodi:role="line"
+         id="tspan6165"
+         x="299.63712"
+         y="192.4306">git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28.28000069px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#df0a0b;fill-opacity:1;stroke:none"
+       x="299.63712"
+       y="230.43065"
+       id="text6171"><tspan
+         sodipodi:role="line"
+         x="299.63712"
+         y="230.43065"
+         id="tspan6169">What happens at the file-level</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="376.66541"
+       y="298.22665"
+       id="text6179"><tspan
+         sodipodi:role="line"
+         id="tspan6177"
+         x="376.66541"
+         y="298.22665">The 5 (well, 4) file states</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="376.66541"
+       y="382.22668"
+       id="text6183"><tspan
+         sodipodi:role="line"
+         id="tspan6181"
+         x="376.66541"
+         y="382.22668">The circle of life (of a file)</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="376.66541"
+       y="466.22672"
+       id="text6189"><tspan
+         sodipodi:role="line"
+         id="tspan6185"
+         x="376.66541"
+         y="466.22672">Anatomy of a commit</tspan><tspan
+         id="tspan6187"
+         sodipodi:role="line"
+         x="376.66541"
+         y="492.8934" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#404040;fill-opacity:1;stroke:none"
+       x="376.66541"
+       y="550.22675"
+       id="text6195"><tspan
+         sodipodi:role="line"
+         id="tspan6191"
+         x="376.66541"
+         y="550.22675">Knowing what is happening (from the command line)</tspan><tspan
+         id="tspan6193"
+         sodipodi:role="line"
+         x="376.66541"
+         y="576.89343" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="376.66541"
+       y="634.22681"
+       id="text6201"><tspan
+         sodipodi:role="line"
+         id="tspan6197"
+         x="376.66541"
+         y="634.22681"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'">Undoing things</tspan><tspan
+         id="tspan6199"
+         sodipodi:role="line"
+         x="376.66541"
+         y="660.89349"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#404040;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="376.66541"
+       y="718.22681"
+       id="text6207"><tspan
+         sodipodi:role="line"
+         id="tspan6203"
+         x="376.66541"
+         y="718.22681">Going the extra mile</tspan><tspan
+         id="tspan6205"
+         sodipodi:role="line"
+         x="376.66541"
+         y="744.89349" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
+       x="418.24091"
+       y="323.70105"
+       id="text6211"><tspan
+         sodipodi:role="line"
+         id="tspan6209"
+         x="418.24091"
+         y="323.70105">Or is it 2?</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
+       x="418.24091"
+       y="407.70114"
+       id="text6217"><tspan
+         sodipodi:role="line"
+         id="tspan6213"
+         x="418.24091"
+         y="407.70114">From one commit to another</tspan><tspan
+         id="tspan6215"
+         sodipodi:role="line"
+         x="418.24091"
+         y="429.03448" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
+       x="418.24091"
+       y="491.7012"
+       id="text6223"><tspan
+         sodipodi:role="line"
+         id="tspan6219"
+         x="418.24091"
+         y="491.7012">With all bloody details</tspan><tspan
+         id="tspan6221"
+         sodipodi:role="line"
+         x="418.24091"
+         y="513.03455" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;display:inline;fill:#bfbfbf;fill-opacity:1;stroke:none"
+       x="418.24091"
+       y="575.70129"
+       id="text6229"><tspan
+         sodipodi:role="line"
+         id="tspan6225"
+         x="418.24091"
+         y="575.70129">Can be usefull… sometimes</tspan><tspan
+         id="tspan6227"
+         sodipodi:role="line"
+         x="418.24091"
+         y="597.03467" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="418.24091"
+       y="659.70142"
+       id="text6235"><tspan
+         sodipodi:role="line"
+         id="tspan6231"
+         x="418.24091"
+         y="659.70142"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'">Can be usefull… too</tspan><tspan
+         id="tspan6233"
+         sodipodi:role="line"
+         x="418.24091"
+         y="681.03479"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'" /></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.33334732px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono, Normal';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;display:inline;opacity:1;vector-effect:none;fill:#bfbfbf;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       x="418.24091"
+       y="743.70148"
+       id="text6243"><tspan
+         sodipodi:role="line"
+         id="tspan6237"
+         x="418.24091"
+         y="743.70148">With more complex yet super cool commands</tspan><tspan
+         id="tspan6239"
+         sodipodi:role="line"
+         x="418.24091"
+         y="765.03485" /><tspan
+         id="tspan6241"
+         sodipodi:role="line"
+         x="418.24091"
+         y="786.36816" /></text>
   </g>
 </svg>
