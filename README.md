@@ -68,9 +68,10 @@ We recommend that you use [Inkscape](https://inkscape.org) for modifying them.
 ### Generating PDF from the SVG files
 
 Once you have modified the source files, you might want to export a new set of slides.
-We have added a script (to be found in the `create_pdf_from_svg_layers.sh` file) that automate the export of layers as pages of a single PDF.
+The script that automate the export of layers as pages of a single PDF is available as a [GitHub Gist](https://gist.github.com/EBoisseauSierra/4944c7e8286b4c321f590fcdebc840c8).
 
 To use this script, first give it sufficient rights, so that it can be executed on your machine:
+
 ```
 chmod +x create_pdf_from_svg_layers.sh
 ```
