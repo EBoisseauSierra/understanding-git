@@ -1284,7 +1284,7 @@
   </g>
   <g
      style="display:none"
-     inkscape:label="go to git folder"
+     inkscape:label="go to git directory"
      id="layer_2"
      inkscape:groupmode="layer">
     <text
@@ -1420,7 +1420,7 @@
          x="301.0744"
          id="tspan3834"
          sodipodi:role="line"
-         style="font-style:normal">All files in the folder are in one of the 5 different states</tspan></text>
+         style="font-style:normal">All files in the directory are in one of the 5 different states</tspan></text>
     <g
        id="g4102"
        transform="translate(170.07885)">
@@ -1442,7 +1442,7 @@
            y="44.605301"
            x="-263.73734"
            id="tspan3938"
-           sodipodi:role="line">in the git folder</tspan></text>
+           sodipodi:role="line">in the git directory</tspan></text>
     </g>
   </g>
   <g
@@ -1498,7 +1498,7 @@
            id="tspan4182"
            x="-263.73734"
            y="44.605301"
-           style="font-weight:bold;text-align:end;text-anchor:end;fill:#f4f4f4">in the git folder</tspan></text>
+           style="font-weight:bold;text-align:end;text-anchor:end;fill:#f4f4f4">in the git directory</tspan></text>
     </g>
     <g
        transform="translate(170.07885)"
@@ -1615,7 +1615,7 @@
            y="44.605301"
            x="-263.73734"
            id="tspan4274"
-           sodipodi:role="line">in the git folder</tspan></text>
+           sodipodi:role="line">in the git directory</tspan></text>
     </g>
     <g
        id="g4286"
@@ -1829,7 +1829,7 @@
            id="tspan4364"
            x="-263.73734"
            y="44.605301"
-           style="font-weight:bold;text-align:end;text-anchor:end;fill:#f4f4f4">in the git folder</tspan></text>
+           style="font-weight:bold;text-align:end;text-anchor:end;fill:#f4f4f4">in the git directory</tspan></text>
     </g>
     <g
        transform="translate(170.07885)"
@@ -31833,7 +31833,7 @@
          y="75.226601"
          x="301.0744"
          id="tspan7139"
-         sodipodi:role="line">Reverting folder to the &quot;in-the-previous-commit&quot; state</tspan></text>
+         sodipodi:role="line">Reverting directory to the &quot;in-the-previous-commit&quot; state</tspan></text>
     <path
        style="display:inline;opacity:1;vector-effect:none;fill:none;fill-opacity:1;stroke:#bfbfbf;stroke-width:3.77953005;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker2963-27)"
        d="M 0,170.07889 H 275.90568"
@@ -32143,7 +32143,7 @@
          sodipodi:role="line"
          id="tspan7292"
          x="301.0744"
-         y="75.226601">Reverting folder to the &quot;in-the-previous-commit&quot; state</tspan></text>
+         y="75.226601">Reverting directory to the &quot;in-the-previous-commit&quot; state</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -32492,7 +32492,7 @@
          sodipodi:role="line"
          id="tspan6318"
          x="301.0744"
-         y="75.226601">Changing the state of all files of the folder</tspan></text>
+         y="75.226601">Changing the state of all files of the directory</tspan></text>
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -41312,7 +41312,7 @@
          id="tspan1181"
          y="113.14592"
          x="301.7424"
-         sodipodi:role="line">The file must be located at folder's root</tspan></text>
+         sodipodi:role="line">The file must be located at directory's root</tspan></text>
     <g
        style="display:inline"
        id="g1215"
@@ -41743,7 +41743,7 @@
            x="584.23798"
            y="391.33017"
            id="tspan2876"
-           style="font-size:14.66667557px;line-height:1;fill:#94b0c2"># Ignore any file whose name begins with `bye` — at folder's root only.</tspan><tspan
+           style="font-size:14.66667557px;line-height:1;fill:#94b0c2"># Ignore any file whose name begins with `bye` — at directory's root only.</tspan><tspan
            sodipodi:role="line"
            x="584.23798"
            y="405.99683"
@@ -41778,7 +41778,7 @@
            x="584.23798"
            y="493.99689"
            id="tspan2890"
-           style="font-size:14.66667557px;line-height:1;fill:#94b0c2"># Ignore any file in the `logs` directory, if the latter is at folder's root.</tspan><tspan
+           style="font-size:14.66667557px;line-height:1;fill:#94b0c2"># Ignore any file in the `logs` directory, if the latter is at directory's root.</tspan><tspan
            sodipodi:role="line"
            x="584.23798"
            y="508.66357"
@@ -44447,7 +44447,7 @@
          y="711.5603"
          id="tspan2088">The <tspan
    style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono Bold'"
-   id="tspan2094">.gitignore</tspan> file (at folder's root) tells git which files</tspan><tspan
+   id="tspan2094">.gitignore</tspan> file (at directory's root) tells git which files</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.6666832px;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start"
          sodipodi:role="line"
          x="377.70541"
