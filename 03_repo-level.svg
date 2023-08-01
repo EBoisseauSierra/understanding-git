@@ -5155,7 +5155,7 @@
      inkscape:groupmode="layer"
      id="layer_updating_branch"
      inkscape:label="updating branch"
-     style="display:none"><g
+     style="display:inline"><g
        id="g408"><text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:28px;line-height:1;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';display:inline;fill:#404040;fill-opacity:1;stroke:none"
@@ -5212,11 +5212,6 @@
        id="path413"
        d="m 686.0722,434.63601 c 69.8363,0 0,0 69.8363,0"
        style="display:inline;fill:none;stroke:#babdb6;stroke-width:3.63282;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10308-3-3)" /><path
-       sodipodi:nodetypes="cc"
-       inkscape:connector-curvature="0"
-       id="path415"
-       d="m 799.45873,434.6174 c 183.24056,0 0,0.1.0.24056,0"
-       style="display:inline;fill:none;stroke:#babdb6;stroke-width:3.63282;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10308-3-3-1-8)" /><path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path416"
@@ -5460,7 +5455,12 @@
            d="m -38.221187,11.183647 v 5"
            id="path334-8"
            inkscape:connector-curvature="0"
-           sodipodi:nodetypes="cc" /></g></g></g><g
+           sodipodi:nodetypes="cc" /></g></g><path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path14111-5-5-2-9"
+       d="m 799.45895,434.62374 c 182.99673,0 0,0 182.99673,0"
+       style="display:inline;fill:none;stroke:#babdb6;stroke-width:3.63283;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:url(#marker10308-3-3-1-7)" /></g><g
      transform="translate(0,-116.99993)"
      style="display:none"
      id="g617"
